@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.nav{
+    background-color: #212129;
+    display: flex;
+    align-items: center;
+}
+
+#logo{
+    padding: 10px 0;
+    margin: 0 10px;
+    color: #ffff;
+    font: 2rem 'Bebas Neue', cursive;
+}
